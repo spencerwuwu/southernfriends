@@ -1,5 +1,6 @@
 
 var menuFlag = 0;
+var menuCount = [0,0,0, 0];
 $(document).ready(function(){
 
   //set intro height
@@ -32,6 +33,34 @@ $(document).ready(function(){
     $("#menu-side").addClass("menu-slideOut");
     $("#menu-side").css("left", -800);
     menuFlag = 0;
+
+  });
+
+  $.each([ 1, 2, 3], function( index, i ){
+    var control = "#menu-main" + i;
+    var target = "#menu-content" + i;
+        console.log(control);
+
+    $( control ).click(function(){
+        console.log(control);
+      if ( menuCount[i] == 0 ){
+        console.log(control);
+        $( target ).slideDown();
+        menuCount[i] = 1;
+      }
+      else{
+        console.log(control);
+        $( target ).slideUp();
+        menuCount[i] = 0;
+      }
+    if (menuCount[1]==0 && menuCount[2]==0 && menuCount[3]==0){
+      $("#menu-side").css("height","auto");
+    }
+    else{
+      $("#menu-side").css("height","100%");
+    }
+    });
+
 
   });
 
