@@ -11,6 +11,7 @@
   padding-bottom: 20%; }
 
 .list-con {
+  margin-top: 20px;
   width: 100%;
   display: -webkit-box;
   display: -moz-box;
@@ -492,10 +493,13 @@ body {
   .menu-main p {
     margin: 5px 0 5px 10px; }
 
+.menu-content-con {
+  width: 100%;
+  display: none; }
+
 .menu-content {
   border-bottom: 1px solid white;
-  padding: 0 0 15px 0;
-  display: none; }
+  padding: 0 0 15px 0; }
 
 .menu-n-header {
   border-bottom: 2px solid #42c5e4;
