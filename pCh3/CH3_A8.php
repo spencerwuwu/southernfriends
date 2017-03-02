@@ -1,100 +1,8 @@
-<!DOCTYPE html>
 
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name=viewport content="width=device-width, initial-scale=1, maximum-scale=1.0">
-
-    <title> 南方朋友 | Southern Friends </title>
-
-
-    <link rel="stylesheet" type="text/css" href="static/css/basic.css">
-    <link rel="stylesheet" type="text/css" href="static/css/myresponsive.css">
-    <script src="static/js/jquery.min.js"></script>
-    <script src="static/js/basic.js"></script>
-  </head>
-  <body>
-    <!-- side menu bar -->
-    <div class="narrow menu-slideOut" id="menu-side">
-      <div class="myrow center">
-        <div class="one item menu-main topic3 heavy mywhite" id="menu-main1">
-          <p>&#8227;&nbsp;顧主小幫手</p>
-        </div>
-
-
-        <div class="one item menu-content" id="menu-content1" >
-          <div class=" menu-n-text mytext heavy mywhite short">
-            <p>Ch1 移工國簡介</p>
-          </div>
-          <div class="menu-n-text mytext mywhite ">
-            <a href="#">印尼簡介</a>
-          </div>
-          <div class="menu-n-text mytext mywhite ">
-            <a href="#">菲律賓簡介</a>
-          </div>
-          <div class="menu-n-text mytext mywhite ">
-            <a href="#">泰國簡介</a>
-          </div>
-          <div class="menu-n-text mytext mywhite ">
-            <a href="#">越南簡介</a>
-          </div>
-        </div>
-
-
-        <div class="one item menu-main topic3 heavy mywhite" id="menu-main2">
-          <p>&#8227;&nbsp;移工小幫手</p>
-        </div>
-
-        <div class="one item menu-content" id="menu-content2">
-          <div class=" menu-n-text mytext heavy mywhite short">
-            <p>Ch2 僱用外籍勞工須知</p>
-          </div>
-          <div class=" menu-n-text mytext mywhite ">
-            <a href="#">聘顧流程需知</a>
-          </div>
-          <div class="menu-n-text mytext mywhite ">
-            <a href="#">顧主注意事項</a>
-          </div>
-        </div>
-
-        <div class="one item menu-main topic3 heavy mywhite" id="menu-main3">
-          <p>&#8227;&nbsp;直聘小幫手</p>
-        </div>
-
-        <div class="one item menu-content" id="menu-content3" >
-          <div class=" menu-n-text mytext heavy mywhite short">
-            <p>Ch3 法律案例</p>
-          </div>
-          <div class="menu-n-text mytext mywhite ">
-            <a href="CH3_A.html">A 聘顧篇</a>
-          </div>
-          <div class="menu-n-text mytext mywhite ">
-            <a href="CH3_B.html">B 指/調派工作篇</a>
-          </div>
-          <div class="menu-n-text mytext mywhite ">
-            <a href="CH3_C.html">C 行政流程篇</a>
-          </div>
-        </div>
-
-      </div>
-    </div>
-    <div id="menublack"></div>
-
-    <div class="narrow menubar-s">
-      <div class="topic2 heavy mygrey short" id="menubtn"><a>&equiv;</a></div>
-    </div>
-
-    <div class="menu-bar">
-    </div>
-
-    <!-- end of basic -->
-
-
-
-    <div class="topcon">
-      <div class="myrow centered">
-
-
+  <?php
+$top = file_get_contents('basic.php');
+echo $top;
+?>
               <!-- A8 -->
               <div class="one item content" markdown="1"><h3 id="a8">A8</h3>
                 <p><img src="img/Ch3/A8.png" alt="" />
@@ -134,34 +42,33 @@
         </div>
         <div class="item list-con">
           <div class="item list-small heavy">
-            <a href="CH3_A1.html">A1</a>
+            <a href="CH3_A1.php">A1</a>
           </div>
           <div class="item list-small heavy">
-            <a href="CH3_A2.html">A2</a>
+            <a href="CH3_A2.php">A2</a>
           </div>
           <div class="item list-small heavy">
-            <a href="CH3_A3.html">A3</a>
+            <a href="CH3_A3.php">A3</a>
           </div>
           <div class="item list-small heavy">
-            <a href="CH3_A4.html">A4</a>
+            <a href="CH3_A4.php">A4</a>
           </div>
           <div class="item list-small heavy">
-            <a href="CH3_A5.html">A5</a>
+            <a href="CH3_A5.php">A5</a>
           </div>
           <div class="item list-small heavy">
-            <a href="CH3_A6.html">A6</a>
+            <a href="CH3_A6.php">A6</a>
           </div>
           <div class="item list-small heavy">
-            <a href="CH3_A7.html">A7</a>
+            <a href="CH3_A7.php">A7</a>
           </div>
           <div class="item list-small heavy">
-            <a href="CH3_A8.html">A8</a>
+            <a href="CH3_A8.php">A8</a>
           </div>
         </div>
 
 
-      </div>
-    </div>
-
-
-  </body>
+<?php
+$end = file_get_contents('end.php');
+echo $end;
+?>
