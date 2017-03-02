@@ -1,6 +1,3 @@
-<?php
-?>
-
 <!DOCTYPE html>
 
 <html lang="en">
@@ -22,11 +19,11 @@
       <div class="myrow center">
 
         <div class="one item menu-main topic3 heavy mywhite" id="menu-main1">
-          <p>&#8227;&nbsp;雇主小幫手</p>
+          <p>&#8227;&nbsp;顧主小幫手</p>
         </div>
 
-        <div id="menu-content1" class="menu-content-con">
-        <div class="one item menu-content" >
+
+        <div class="one item menu-content" id="menu-content1" >
           <div class=" menu-n-text mytext heavy mywhite short">
             <p>Ch1 移工國簡介</p>
           </div>
@@ -44,7 +41,12 @@
           </div>
         </div>
 
-        <div class="one item menu-content">
+
+        <div class="one item menu-main topic3 heavy mywhite" id="menu-main2">
+          <p>&#8227;&nbsp;移工小幫手</p>
+        </div>
+
+        <div class="one item menu-content" id="menu-content2">
           <div class=" menu-n-text mytext heavy mywhite short">
             <p>Ch2 僱用外籍勞工須知</p>
           </div>
@@ -56,8 +58,11 @@
           </div>
         </div>
 
+        <div class="one item menu-main topic3 heavy mywhite" id="menu-main3">
+          <p>&#8227;&nbsp;直聘小幫手</p>
+        </div>
 
-        <div class="one item menu-content">
+        <div class="one item menu-content" id="menu-content3" >
           <div class=" menu-n-text mytext heavy mywhite short">
             <p>Ch3 法律案例</p>
           </div>
@@ -70,16 +75,6 @@
           <div class="menu-n-text mytext mywhite ">
             <a href="CH3_C.html">C 行政流程篇</a>
           </div>
-        </div>
-        </div>
-
-
-        <div class="one item menu-main topic3 heavy mywhite" id="menu-main2">
-          <p>&#8227;&nbsp;移工小幫手</p>
-        </div>
-
-        <div class="one item menu-main topic3 heavy mywhite" id="menu-main3">
-          <p>&#8227;&nbsp;直聘小幫手</p>
         </div>
 
       </div>
@@ -99,3 +94,38 @@
 
     <div class="topcon">
       <div class="myrow centered">
+
+        <div class="one item content">
+          <h2>B<br>指/調派工作篇</h2>
+          <img src="img/Ch3/B.png" />
+        </div>
+
+        <div class="item list-con">
+          <div class="item list-small heavy">
+            <a href="CH3_B1.html">B1</a>
+          </div>
+          <div class="item list-small heavy">
+            <a href="CH3_B2.html">B2</a>
+          </div>
+          <div class="item list-small heavy">
+            <a href="CH3_B3.html">B3</a>
+          </div>
+          <div class="item list-small heavy">
+            <a href="CH3_B4.html">B4</a>
+          </div>
+          <div class="item list-small heavy">
+            <a href="CH3_B5.html">B5</a>
+          </div>
+          <div class="item list-small heavy">
+            <a href="CH3_B6.html">B6</a>
+          </div>
+          <div class="item list-small heavy">
+            <a href="CH3_B7.html">B7</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+
+  </body>
