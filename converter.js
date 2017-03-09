@@ -1,5 +1,5 @@
 fs = require('fs');
-fs.readFile('./A-content/A6.md', 'utf8',function(err,data){
+fs.readFile('./CH4.md', 'utf8',function(err,data){
 	if (err) {
 		return console.log(err);
 	}
