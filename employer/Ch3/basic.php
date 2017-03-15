@@ -11,10 +11,10 @@
     <title> 南方朋友 | Southern Friends </title>
 
 
-    <link rel="stylesheet" type="text/css" href="static/css/basic.css">
-    <link rel="stylesheet" type="text/css" href="static/css/myresponsive.css">
-    <script src="static/js/jquery.min.js"></script>
-    <script src="static/js/basic.js"></script>
+    <link rel="stylesheet" type="text/css" href="../static/css/basic.css">
+    <link rel="stylesheet" type="text/css" href="../static/css/myresponsive.css">
+    <script src="../static/js/jquery.min.js"></script>
+    <script src="../static/js/basic.js"></script>
   </head>
   <body>
     <!-- side menu bar -->
@@ -31,16 +31,16 @@
             <p>Ch1 移工國簡介</p>
           </div>
           <div class="menu-n-text mytext mywhite ">
-            <a href="#">印尼簡介</a>
+            <a href="../Ch1/in.php">印尼簡介</a>
           </div>
           <div class="menu-n-text mytext mywhite ">
-            <a href="#">菲律賓簡介</a>
+            <a href="../Ch1/phi.php">菲律賓簡介</a>
           </div>
           <div class="menu-n-text mytext mywhite ">
-            <a href="#">泰國簡介</a>
+            <a href="../Ch1/tai.php">泰國簡介</a>
           </div>
           <div class="menu-n-text mytext mywhite ">
-            <a href="#">越南簡介</a>
+            <a href="../Ch1/vie.php">越南簡介</a>
           </div>
         </div>
 
@@ -49,10 +49,7 @@
             <p>Ch2 僱用外籍勞工須知</p>
           </div>
           <div class=" menu-n-text mytext mywhite ">
-            <a href="#">聘顧流程需知</a>
-          </div>
-          <div class="menu-n-text mytext mywhite ">
-            <a href="#">顧主注意事項</a>
+            <a href="../Ch2/CH2.php">聘顧需知</a>
           </div>
         </div>
 
@@ -70,6 +67,24 @@
           <div class="menu-n-text mytext mywhite ">
             <a href="CH3_C.php">C 行政流程篇</a>
           </div>
+        </div>
+
+
+        <div class="one item menu-content">
+          <div class=" menu-n-text mytext heavy mywhite short">
+            <a href="../Ch4/CH4.php">Ch4 附錄</a>
+          </div>
+          <div class="menu-n-text mytext mywhite ">
+            <a href="../Ch4/CH4.php">附錄</a>
+          </div>
+<!--
+          <div class="menu-n-text mytext mywhite ">
+            <a href="CH3_B.php">B 指/調派工作篇</a>
+          </div>
+          <div class="menu-n-text mytext mywhite ">
+            <a href="CH3_C.php">C 行政流程篇</a>
+          </div>
+-->
         </div>
         </div>
 
