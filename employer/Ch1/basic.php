@@ -48,9 +48,6 @@
           <div class=" menu-n-text mytext heavy mywhite short">
             <a href="../Ch2/CH2.php">Ch2 僱用外籍勞工須知</a>
           </div>
-          <div class=" menu-n-text mytext mywhite ">
-            <a href="../Ch2/CH2.php">聘顧需知</a>
-          </div>
         </div>
 
 

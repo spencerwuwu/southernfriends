@@ -165,6 +165,9 @@
   .content p {
     font-size: 1.2em;
     color: black; }
+  .content a {
+    font-size: 1.2em;
+    color: black; }
   .content li {
     margin-top: 5px;
     margin-bottom: 5px; }
@@ -188,23 +191,31 @@ body, p, h1, h2, h3, h4, h5, h6, a {
     font-size: 1.9em;
     font-weight: bold; }
     .topic1 p {
+      margin-bottom: 24px; }
+    .topic1 a {
       margin-bottom: 24px; } }
 @media screen and (min-width: 486px) {
   .topic1 {
     font-size: 2.2em;
     font-weight: bold; }
     .topic1 p {
+      margin-bottom: 24px; }
+    .topic1 a {
       margin-bottom: 24px; } }
 @media screen and (min-width: 769px) {
   .topic1 {
     font-size: 2.7em;
     font-weight: bold; }
     .topic1 p {
+      margin-bottom: 36px; }
+    .topic1 a {
       margin-bottom: 36px; } }
 @media screen and (min-width: 1000px) {
   .topic1 {
     font-size: 3em; }
     .topic1 p {
+      margin-bottom: 36px; }
+    .topic1 a {
       margin-bottom: 36px; } }
 
 @media screen and (max-width: 486px) {
@@ -312,6 +323,8 @@ body {
 
 .short {
   line-height: 0.1; }
+  .short a {
+    line-height: 0.1; }
 
 /* frame */
 .spaced {
@@ -546,6 +559,8 @@ body {
   padding: 10px 0 10px 0; }
   .menu-main p {
     margin: 5px 0 5px 10px; }
+  .menu-main a {
+    margin: 5px 0 5px 10px; }
 
 .menu-content-con {
   width: 100%;
@@ -560,6 +575,8 @@ body {
   margin-bottom: 10px;
   padding-left: 10px; }
   .menu-n-header p {
+    margin-bottom: 16px; }
+  .menu-n-header a {
     margin-bottom: 16px; }
 
 .menu-n-topic {
