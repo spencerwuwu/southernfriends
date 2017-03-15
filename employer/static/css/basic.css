@@ -571,6 +571,8 @@ body {
   margin-top: 10px; }
   .menu-n-topic p {
     margin-bottom: 20px; }
+  .menu-n-topic a {
+    margin-bottom: 20px; }
 
 .menu-n-text {
   padding-left: 10px; }

@@ -28,7 +28,7 @@
         <div id="menu-content1" class="menu-content-con">
         <div class="one item menu-content" >
           <div class=" menu-n-text mytext heavy mywhite short">
-            <p>Ch1 移工國簡介</p>
+            <a href="../Ch1/CH1.php">Ch1 移工國簡介</a>
           </div>
           <div class="menu-n-text mytext mywhite ">
             <a href="../Ch1/in.php">印尼簡介</a>
@@ -46,17 +46,14 @@
 
         <div class="one item menu-content">
           <div class=" menu-n-text mytext heavy mywhite short">
-            <p>Ch2 僱用外籍勞工須知</p>
-          </div>
-          <div class=" menu-n-text mytext mywhite ">
-            <a href="../Ch2/CH2.php">聘顧需知</a>
+            <a href="../Ch2/CH2.php">Ch2 僱用外籍勞工須知</a>
           </div>
         </div>
 
 
         <div class="one item menu-content">
           <div class=" menu-n-text mytext heavy mywhite short">
-            <p>Ch3 法律案例</p>
+            <a href="CH3.php">Ch3 法律案例</a>
           </div>
           <div class="menu-n-text mytext mywhite ">
             <a href="CH3_A.php">A 聘顧篇</a>
@@ -73,9 +70,6 @@
         <div class="one item menu-content">
           <div class=" menu-n-text mytext heavy mywhite short">
             <a href="../Ch4/CH4.php">Ch4 附錄</a>
-          </div>
-          <div class="menu-n-text mytext mywhite ">
-            <a href="../Ch4/CH4.php">附錄</a>
           </div>
 <!--
           <div class="menu-n-text mytext mywhite ">
