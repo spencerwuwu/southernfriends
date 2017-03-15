@@ -2,7 +2,7 @@
 $top = file_get_contents('basic.php');
 echo $top;
 ?>
-<div class="one item content" markdown="1"><h3 id="ch2">ch2國際移工雇用須知</h3>
+<div class="one item content pcenter" markdown="1"><h3 id="ch2">ch2<br>國際移工雇用須知</h3>
 <p><img src="img/Ch2/第二章.png" alt="" /></p>
 <h3 id="1">1</h3>
 <p><img src="img/Ch2/1.png" alt="" />
