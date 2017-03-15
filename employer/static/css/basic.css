@@ -25,12 +25,40 @@
   justify-content: space-around; }
 
 .list {
-  width: 31%;
+  width: 22%;
   display: inline-block;
   text-align: center; }
   .list a {
     font-size: 0.8em;
     color: black; }
+
+.list-con-lan {
+  margin-top: 20px;
+  width: 90%;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around; }
+
+.list-lan {
+  width: 19%;
+  display: inline-block;
+  text-align: center; }
+  .list-lan a {
+    font-size: 0.5em;
+    color: black; }
+
+.list-w {
+  width: 100%;
+  display: inline-block;
+  text-align: center; }
+  .list-w a {
+    font-size: 0.7em;
+    color: black;
+    background-color: white; }
 
 .list-next {
   width: 31%;
@@ -175,6 +203,44 @@
     margin-top: 5px;
     margin-bottom: 5px; }
   .content img {
+    padding: 10px 5% 10px 5%;
+    width: 90%; }
+
+.content-index {
+  width: 50%;
+  margin-top: 30px; }
+  .content-index h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 3.8em;
+    line-height: 0.9; }
+  .content-index h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 2.8em;
+    line-height: 55px; }
+  .content-index h3 {
+    margin-top: 10px;
+    margin-bottom: 8px;
+    font-size: 2.8em;
+    line-height: 55px;
+    text-align: center; }
+  .content-index h4 {
+    margin-top: 10px;
+    margin-bottom: 8px;
+    font-size: 2em;
+    line-height: 45px;
+    text-align: center; }
+  .content-index p {
+    font-size: 1.2em;
+    color: black; }
+  .content-index a {
+    font-size: 1.2em;
+    color: black; }
+  .content-index li {
+    margin-top: 5px;
+    margin-bottom: 5px; }
+  .content-index img {
     padding: 10px 5% 10px 5%;
     width: 90%; }
 
