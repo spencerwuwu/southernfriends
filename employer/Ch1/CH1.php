@@ -7,16 +7,16 @@ echo $top;
           <h2>ch1</h2><h2>移工國簡介</h2>
         </div>
       <div class="item list-con">
-        <div class="item list heavy">
+        <div class="item list-small heavy">
           <a href="in.php">印尼</a>
         </div>
-          <div class="item list heavy">
+          <div class="item list-small heavy">
             <a href="phi.php">菲律賓簡介</a>
           </div>
-          <div class="item list heavy">
+          <div class="item list-small heavy">
             <a href="tai.php">泰國簡介</a>
           </div>
-          <div class="item list heavy">
+          <div class="item list-small heavy">
             <a href="vie.php">越南簡介</a>
           </div>
       </div>
