@@ -56,7 +56,6 @@
   display: inline-block;
   margin: 10px; }
   .list-w a {
-    font-size: 0.7em;
     color: black;
     background-color: white; }
 
@@ -208,7 +207,7 @@
     font-size: 1.2em;
     color: black; }
   .main-content a {
-    font-size: 1.2em;
+    font-size: 1em;
     color: black; }
   .main-content li {
     margin-top: 5px;
