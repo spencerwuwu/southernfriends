@@ -54,7 +54,7 @@
 .list-w {
   width: 100%;
   display: inline-block;
-  text-align: center; }
+  margin: 10px; }
   .list-w a {
     font-size: 0.7em;
     color: black;
@@ -167,6 +167,55 @@
     margin-bottom: 10px;
     position: relative;
     font-size: 2.3em; }
+
+.top-addon {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: center;
+  align-items: flex-start; }
+
+.main-content {
+  margin-top: 30px;
+  margin-left: 10%;
+  width: 60%; }
+  .main-content h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 3.8em;
+    line-height: 0.9; }
+  .main-content h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 2.8em;
+    line-height: 55px; }
+  .main-content h3 {
+    margin-top: 10px;
+    margin-bottom: 8px;
+    font-size: 2.8em;
+    line-height: 55px;
+    text-align: center; }
+  .main-content h4 {
+    margin-top: 10px;
+    margin-bottom: 8px;
+    font-size: 2em;
+    line-height: 45px;
+    text-align: center; }
+  .main-content p {
+    font-size: 1.2em;
+    color: black; }
+  .main-content a {
+    font-size: 1.2em;
+    color: black; }
+  .main-content li {
+    margin-top: 5px;
+    margin-bottom: 5px; }
+  .main-content img {
+    padding: 10px 5% 10px 5%;
+    width: 90%; }
 
 .content {
   margin-top: 30px; }
