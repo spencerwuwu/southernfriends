@@ -758,4 +758,125 @@ body {
 #footer {
   background-color: #080504; }
 
+/* Download */
+.top-download {
+  height: 100%;
+  overflow: scroll;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: center;
+  align-items: flex-start; }
+
+.download-content {
+  margin-top: 30px;
+  width: 95%;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: flex-start; }
+
+.download-video {
+  margin-top: 15px;
+  width: 95%;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: center;
+  align-items: flex-start; }
+
+.video-container {
+  border: 2px solid black; }
+  @media screen and (max-width: 486px) {
+    .video-container {
+      width: 90%; } }
+  @media screen and (min-width: 486px) {
+    .video-container {
+      width: 70%; } }
+  @media screen and (min-width: 769px) {
+    .video-container {
+      width: 60%; } }
+  @media screen and (min-width: 1000px) {
+    .video-container {
+      width: 60%; } }
+
+.dcontent {
+  text-align: center; }
+
+/* pdf item */
+.pdf-con {
+  border: 1px solid black;
+  margin: 15px 10px 15px 10px;
+  position: relative; }
+  .pdf-con a {
+    color: white; }
+  @media screen and (max-width: 486px) {
+    .pdf-con {
+      width: 35%;
+      font-size: 0.7em;
+      color: white; } }
+  @media screen and (min-width: 486px) {
+    .pdf-con {
+      width: 30%;
+      font-size: 1em;
+      color: white; } }
+  @media screen and (min-width: 769px) {
+    .pdf-con {
+      width: 22%;
+      font-size: 1.5em;
+      color: white; } }
+  @media screen and (min-width: 1000px) {
+    .pdf-con {
+      width: 22%;
+      font-size: 2em;
+      color: white; } }
+
+.pdf-bg {
+  background-color: white;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+  .pdf-bg img {
+    width: 100%;
+    height: 100%; }
+
+.pdf-hover {
+  position: absolute;
+  transition: all 0.5s ease-in-out;
+  opacity: 0;
+  z-index: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(30, 30, 30, 0.6);
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: center;
+  align-items: center; }
+  .pdf-hover div {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    color: white; }
+  .pdf-hover:hover {
+    opacity: 1; }
+
 /*# sourceMappingURL=basic.css.map */

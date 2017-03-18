@@ -173,7 +173,6 @@ $reset_font: Arial, "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei
     position: relative
     font-size: 2.3em
     
-
 .top-addon
   height: 100%
   overflow: scroll
@@ -185,7 +184,7 @@ $reset_font: Arial, "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei
   -webkit-flex-flow: row wrap
   justify-content: center 
   align-items: flex-start
-
+    
 .main-content
   margin-top: 30px
   margin-left: 10%
@@ -218,11 +217,9 @@ $reset_font: Arial, "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei
   a
     font-size: 1.0em
     color: black
-
   li
     margin-top: 5px
     margin-bottom: 5px
-
   img
     padding: 10px 5% 10px 5%
     width: 90%
@@ -738,3 +735,116 @@ body
 #footer
   background-color: #080504
 
+/* Download */
+.top-download
+  height: 100%
+  overflow: scroll
+  display: -webkit-box
+  display: -moz-box
+  display: -ms-flexbox
+  display: -webkit-flex
+  display: flex
+  -webkit-flex-flow: row wrap
+  justify-content: center
+  align-items: flex-start
+
+.download-content
+  margin-top: 30px
+  width: 95%
+  display: -webkit-box
+  display: -moz-box
+  display: -ms-flexbox
+  display: -webkit-flex
+  display: flex
+  -webkit-flex-flow: row wrap
+  justify-content: space-around
+  align-items: flex-start
+  
+.download-video
+  margin-top: 15px
+  width: 95%
+  display: -webkit-box
+  display: -moz-box
+  display: -ms-flexbox
+  display: -webkit-flex
+  display: flex
+  -webkit-flex-flow: row wrap
+  justify-content: center
+  align-items: flex-start
+
+.video-container
+  border: 2px solid black
+  @media #{$smart-phone}
+    width: 90%
+  @media #{$smalll-device}
+    width: 70%
+  @media #{$smalll-screen}
+    width: 60%
+  @media #{$larger-screen}
+    width: 60%
+
+.dcontent
+  text-align: center
+
+/* pdf item */
+
+.pdf-con
+  border: 1px solid black
+  margin: 15px 10px 15px 10px
+  position: relative
+  a
+    color: white
+  @media #{$smart-phone}
+    width: 35%
+    font-size: 0.7em
+    color: white
+  @media #{$smalll-device}
+    width: 30%
+    font-size: 1em
+    color: white
+  @media #{$smalll-screen}
+    width: 22%
+    font-size: 1.5em
+    color: white
+  @media #{$larger-screen}
+    width: 22%
+    font-size: 2em
+    color: white
+  
+.pdf-bg
+  background-color: white
+  position: absolute
+  z-index: -1
+  top: 0
+  left: 0
+  width: 100%
+  height: 100%
+  img
+    width: 100%
+    height: 100%
+
+.pdf-hover
+  position: absolute
+  transition: all .5s ease-in-out
+  opacity: 0
+  z-index: 0
+  top: 0
+  left: 0
+  width: 100%
+  height: 100%
+  background-color: rgba( 30, 30, 30, 0.6)
+  display: -webkit-box
+  display: -moz-box
+  display: -ms-flexbox
+  display: -webkit-flex
+  display: flex
+  -webkit-flex-flow: row wrap
+  justify-content: center
+  align-items: center
+  div
+    position: relative
+    width: 100%
+    text-align: center
+    color: white
+  &:hover
+    opacity: 1

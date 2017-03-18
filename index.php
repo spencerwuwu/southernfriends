@@ -3,8 +3,8 @@ $top = file_get_contents('basic.php');
 echo $top;
 ?>
         <div class="one item content">
-          <img src="img/" />
           <h2>南方朋友</h2>
+          <img src="img/" />
         </div>
       </div>
       <div class="item list-con-lan">

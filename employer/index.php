@@ -1,3 +1,4 @@
+
   <?php
   $top = file_get_contents('basic.php');
   echo $top;
@@ -19,9 +20,6 @@
   <body>
 -->
     <div class="topcon top-addon">
-      <div class="one item content">
-        <img src="img/" />
-      </div>
       <div class="item main-content">
         <h2>雇主<br>小幫手</h2>
         <div class="item list-con">
@@ -38,14 +36,14 @@
             <a href="Ch4/CH4.php">相關諮詢單位服務處</a>
           </div>
         </div>
- <!--
       </div>
     </div>
 
     </div>
   </body>
-  -->
+ <!--
     <?php
     $end = file_get_contents('end.php');
     echo $end;
     ?>
+  -->
