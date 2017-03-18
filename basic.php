@@ -11,10 +11,10 @@
     <title> 南方朋友 | Southern Friends </title>
 
 
-    <link rel="stylesheet" type="text/css" href="static/css/basic.css">
-    <link rel="stylesheet" type="text/css" href="static/css/myresponsive.css">
-    <script src="static/js/jquery.min.js"></script>
-    <script src="static/js/basic.js"></script>
+    <link rel="stylesheet" type="text/css" href="download/static/css/basic.css">
+    <link rel="stylesheet" type="text/css" href="download/static/css/myresponsive.css">
+    <script src="download/static/js/jquery.min.js"></script>
+    <script src="download/static/js/basic.js"></script>
   </head>
   <body>
     <!-- side menu bar -->
@@ -92,6 +92,9 @@
 
         <div class="one item menu-main topic3 heavy mywhite" id="menu-main3">
           <p>&#8227;&nbsp;直聘小幫手</p>
+        </div>
+        <div class="one item menu-main topic3 heavy mywhite" id="menu-main4">
+          <p>&#8227;&nbsp;下載專區</p>
         </div>
 
       </div>

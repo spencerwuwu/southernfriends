@@ -13,6 +13,7 @@
 
     <link rel="stylesheet" type="text/css" href="static/css/basic.css">
     <link rel="stylesheet" type="text/css" href="static/css/myresponsive.css">
+    <link rel="stylesheet" type="text/css" href="static/css/video.css">
     <script src="static/js/jquery.min.js"></script>
     <script src="static/js/basic.js"></script>
   </head>
