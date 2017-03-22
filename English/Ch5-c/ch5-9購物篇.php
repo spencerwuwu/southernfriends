@@ -3,31 +3,32 @@ $top = file_get_contents('basic.php');
 echo $top;
 ?>
 <div class="one item content" markdown="1"><h4 id="">《購物篇》</h4>
-<p>台灣住商混合，通常在住家附近都可以找到商店購買生活必需品，下面介紹在台灣比較常見的商店種類。</p>
+<p>Most cities in Taiwan are mixed-use facilities, so there are us ually some stores selling daily necessities around people's residences. Below we would like to introduce some main kinds of stores in Taiwan. </p>
 <p>01<br>
-雜貨店
+Grocery Store
 <img src="img/ch5/ch5-9-1.png" alt="" /></p>
-<p>傳統的便利商店，賣一些罐頭雞蛋餅乾等等簡單食物及日常生活用品為主，通常價錢會較便宜。</p>
+<p>It's a traditional "convenience store". It sells daily necessities and simple food such as cans, eggs, cookies, and so on. The prices are usually cheaper than other places. </p>
 <p>02<br>
-五金行
+Hardware Store
 <img src="img/ch5/ch5-9-2.png" alt="" /></p>
-<p>原本是賣「金銀銅鐵錫」而得名，現在除了這些還賣一些生活小家具（掃把、鐵剪、水管等等） </p>
+<p>五金 means "five kinds of metals" (gold, silver, copper, iron, and tin). Originally hardware stores in Taiwan sell these kinds of metals and get the name "五金行". 
+Nowadays, besides selling metals, a hardware store also sells some simple tools such as brooms, scissors, pipes, and so on.  </p>
 <p>03<br>
 便利商店
 <img src="img/ch5/ch5-9-3.png" alt="" /></p>
-<p>24小時營業，食物、簡單生活用品等等幾乎都有，一卡通、悠遊卡可以在此加值，通常可以代收電話費、附近沒有郵局也可以在此寄快遞，或是使用店到店服務寄送東西，便利商店裡通常設有ATM， 可以在此領錢，雖然便利商店有許多服務，但缺點是東西通常都貴得多</p>
+<p>A convenience store usually offers 24/7 service. As its name, several things can be done conveniently. For example, in a convenience store in Taiwan, people can purchase foods and daily necessities, top up their smart cards, pay phone bills, send parcels (some also offers store-to-store parcel delivery service), booking several kinds of tickets, scanning and printing documents, to name but a few. Also, there is usually an automated teller machine set in a convenience store, so people can withdraw money there. </p>
 <p>04<br>
-菜市場
+Traditional Market
 <img src="img/ch5/ch5-9-4.png" alt="" /></p>
-<p>24小時營業，食物、簡單生活用品等等幾乎都有，一卡通、悠遊卡可以在此加值，通常可以代收電話費、附近沒有郵局也可以在此寄快遞，或是使用店到店服務寄送東西，便利商店裡通常設有ATM， 可以在此領錢，雖然便利商店有許多服務，但缺點是東西通常都貴得多</p>
+<p>There are some traditional market in certain areas in Taiwan. Most of them start in the morning, and some of them start in the afternoon (which is called "dusk market"). You can not only buy 菜(vegetables) but also several other kinds of ingredients in a traditional market. A good thing is that foods in a traditional market are usually fresh and cheap, so if there is a traditional market near your vicinity, you may go as often as possible. </p>
 <p>05<br>
-超市
+Super Market
 <img src="img/ch5/ch5-9-5.png" alt="" /></p>
-<p>有些地方沒菜市場，就必須仰賴超市。超市品項齊全，包裝較好，但台灣常見超市價錢通常較貴。</p>
+<p>If there is no traditional markets around your residence, maybe you can find a supermarket as a replacement. Several commodities are sold in s upermarkets. The packings are better than other places but the prices are a bit more expensive. </p>
 <p>06<br>
-大賣場
+Hypermarket
 <img src="img/ch5/ch5-9-6.png" alt="" /></p>
-<p>幾乎所有生活所需品都可以找到，價格通常較便宜，但要買的量比較大，也不像雜貨店那麼易達。</p></div>
+<p>You can find almost every kind of daily necessities here. The p rices are cheap, but basically you need to purchase in a big quantity, and the l ocations are usually far from city centers. </p></div>
 <?php
 $end = file_get_contents('end.php');
 echo $end;

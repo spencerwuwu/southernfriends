@@ -2,7 +2,7 @@
 $top = file_get_contents('basic.php');
 echo $top;
 ?>
-<div class="one item content-new" markdown="1"><h4 id="">《台灣特殊人文風情》</h4>
+<div class="one item content-new" markdown="1"><h4 id="">《Taiwanese Culture》</h4>
 <h5>01</h5>
 <h5><img src="img/04/ch1-4-1.png" alt="" />
 Night market culture</h5>

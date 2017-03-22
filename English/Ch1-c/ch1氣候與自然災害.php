@@ -2,7 +2,7 @@
 $top = file_get_contents('basic.php');
 echo $top;
 ?>
-<div class="one item content-new" markdown="1"><h4 id="">《氣候》</h4>
+<div class="one item content-new" markdown="1"><h4 id="">《The Weather》</h4>
 <h5><img src="img/02/ch1-2-1.png" alt="" /></h5>
 <h5>The weather is wet and hot, heavy rainfall, please remember: </h5>
 <h5><img src="img/02/ch1-2-2.png" alt="" />

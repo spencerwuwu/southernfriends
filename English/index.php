@@ -24,28 +24,28 @@
         <h2>移工<br>小幫手</h2>
         <div class="item list-con">
           <div class="item list-w heavy">
-            <a href="Ch1-c/Ch1.php">ch1 關於台灣</a>
+            <a href="Ch1-c/Ch1.php">ch1 About Taiwan</a>
           </div>
           <div class="item list-w heavy">
-            <a href="Ch2-c/Ch2.php">ch2 語言小教室</a>
+            <a href="#">ch2 Learning Language</a>
           </div>
           <div class="item list-w heavy">
-            <a href="Ch3-c/Ch3.php">ch3 假日好去處</a>
+            <a href="Ch3-c/Ch3.php">ch3 Go on a vacation</a>
           </div>
           <div class="item list-w heavy">
-            <a href="#">ch4 宗教小教室</a>
+            <a href="#">ch4 Learning thier religiona</a>
           </div>
           <div class="item list-w heavy">
-            <a href="Ch5-c/Ch5.php">ch5 交通與生活小知識</a>
+            <a href="Ch5-c/Ch5.php">ch5 Living and Traffic</a>
           </div>
           <div class="item list-w heavy">
-            <a href="Ch6-c/Ch6.php">ch6 你一定要知道的那些事</a>
+            <a href="Ch6-c/Ch6.php">ch6 Something you must know</a>
           </div>
           <div class="item list-w heavy">
-            <a href="Ch7-c/Ch7.php">ch7 為國際移工舉辦的節日</a>
+            <a href="Ch7-c/Ch7.php">ch7 Festival for foriegn workers</a>
           </div>
           <div class="item list-w heavy">
-            <a href="Ch8-c/Ch8.php">ch8 外國廣播節目</a>
+            <a href="Ch8-c/Ch8.php">ch8 Foriegn broadcast</a>
           </div>
         </div>
       </div>

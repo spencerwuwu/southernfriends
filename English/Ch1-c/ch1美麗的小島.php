@@ -2,7 +2,7 @@
 $top = file_get_contents('basic.php');
 echo $top;
 ?>
-<div class="one item content" markdown="1"><h4 id="">《美麗的小島》</h4>
+<div class="one item content" markdown="1"><h4 id="">《Formosa Taiwan》</h4>
 <p><img src="img/01/ch1-1.png" alt="" /></p>
 <p>Taiwan (Republic of China) was formerly referred to as Formosa, which means “beautiful 
 island”. Located amongst Ryukyu Islands and Philippine Islands, Taiwan has Taiwan Strait and Europe to the west. Tropic of Cancer crosses through the middle of Taiwan, which brings warm and wet weather and diverse atmosphere and biological environments for organisms. 
