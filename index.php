@@ -2,9 +2,9 @@
 $top = file_get_contents('basic.php');
 echo $top;
 ?>
-<div class="topcon">
+<div class="topcon top-addon">
       <div class="myrow centered">
-        <div class="one item content">
+        <div class="item main-content">
           <h2>南方朋友</h2>
           <img src="首頁.png" />
         </div>
