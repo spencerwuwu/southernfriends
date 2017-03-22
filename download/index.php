@@ -26,70 +26,84 @@
     <div class="topcon top-download">
 
       <div class="download-video">
+<!--
         <div class="video-container">
           <iframe style="width:100%; height:100%;" height="100%" width="100%" src="https://www.youtube.com/embed/T3jD3EU_LYM" frameborder="0" allowfullscreen></iframe>
         </div>
+-->
+	<img src="" style="width: 100%">
       </div>
       <div class="one item dcontent">
-        <p>字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字</p>
+	<p>下載並列印完小幫手後，準備一支city cafe吸管，一把剪刀(美工刀)，即可快速成冊喔!</p>
       </div>
 
 
       <div class="item download-content">
 
-        <div class="pdf-con item" id="pdf1">
+        <div class="pdf-con item">
           <div class="pdf-bg">
-            <img src="">
+	    <img src="img/icon-01.png">
           </div>
           <a href="#">
             <div class="pdf-hover">
-              <p>點我下載</p>
+              <p>點我下載<br>雇主小幫手</p>
             </div>
           </a>
         </div>
 
-        <div class="pdf-con item" id="pdf1">
+        <div class="pdf-con item">
           <div class="pdf-bg">
-            <img src="">
+            <img src="img/icon-02.png">
           </div>
-          <a href="#">
+          <a href="files/worker_chinese.swf">
             <div class="pdf-hover">
-              <p>點我下載</p>
+              <p>點我下載<br>移工小幫手</p>
             </div>
           </a>
         </div>
 
-        <div class="pdf-con item" id="pdf1">
+        <div class="pdf-con item">
           <div class="pdf-bg">
-            <img src="">
+            <img src="img/icon-03.png">
           </div>
-          <a href="#">
+          <a href="files/worker_indonesian.swf">
             <div class="pdf-hover">
-              <p>點我下載</p>
-            </div>
-          </a>
-        </div>
-
-
-        <div class="pdf-con item" id="pdf1">
-          <div class="pdf-bg">
-            <img src="">
-          </div>
-          <a href="#">
-            <div class="pdf-hover">
-              <p>點我下載</p>
+              <p>點我下載<br>Pembantu pekerja imigran</p>
             </div>
           </a>
         </div>
 
 
-        <div class="pdf-con item" id="pdf1">
+        <div class="pdf-con item">
           <div class="pdf-bg">
-            <img src="">
+            <img src="img/icon-04.png">
           </div>
-          <a href="#">
+          <a href="files/worker_thai.swf">
             <div class="pdf-hover">
-              <p>點我下載</p>
+              <p>點我下載<br>คู่มือแรงงานต่างถิ่น</p>
+            </div>
+          </a>
+        </div>
+
+
+        <div class="pdf-con item">
+          <div class="pdf-bg">
+            <img src="img/icon-05.png">
+          </div>
+          <a href="files/worker_english.swf">
+            <div class="pdf-hover">
+              <p>點我下載<br>Internation Workers' Helper</p>
+            </div>
+          </a>
+        </div>
+
+        <div class="pdf-con item">
+          <div class="pdf-bg">
+            <img src="img/icon-06.png">
+          </div>
+          <a href="#files/worker_vietnamese.swf">
+            <div class="pdf-hover">
+              <p>點我下載<br>giao thông và kỷ năng đời sống</p>
             </div>
           </a>
         </div>

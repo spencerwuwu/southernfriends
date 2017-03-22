@@ -3,8 +3,8 @@ $top = file_get_contents('basic.php');
 echo $top;
 ?>
         <div class="one item content">
+          <h2>ch1</h2><h2>關於台灣</h2>
           <img src="img/Ch1/1.png" />
-          <h2>ch1</h2><h2>移工國簡介</h2>
         </div>
       <div class="item list-con">
         <div class="item list-w heavy">

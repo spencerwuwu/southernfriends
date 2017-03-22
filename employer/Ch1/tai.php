@@ -12,8 +12,8 @@ echo $top;
 <h4>人口</h4>
 </div>
 </div>
-<pre><code>泰國人口數約6,000萬人，其中以泰族為主要民族，約占人口總數的7 5 ％ ， 通行的語言為泰語。
-</code></pre>
+<p>泰國人口數約6,000萬人，其中以泰族為主要民族，約占人口總數的7 5 ％ ， 通行的語言為泰語。
+</p>
 <div class="small-topic">
 <div class="small-topic-1r">
 <img src="img/Ch1/泰國越南宗教icon人口.png" />
@@ -22,8 +22,8 @@ echo $top;
 <h4>信仰</h4>
 </div>
 </div>
-<pre><code>泰國是世界上的佛教強國之一，整體信仰95%為佛教，少數穆斯林及其他宗教。
-</code></pre>
+<p>泰國是世界上的佛教強國之一，整體信仰95%為佛教，少數穆斯林及其他宗教。
+</p>
 <div class="small-topic">
 <div class="small-topic-weather">
 <img src="img/Ch1/四國天氣icon.png" />
@@ -32,8 +32,8 @@ echo $top;
 <h4>天氣</h4>
 </div>
 </div>
-<pre><code>氣候部分大部份屬於熱帶季風氣候，一年分涼季、夏季、雨季三季。
-</code></pre></div>
+<p>氣候部分大部份屬於熱帶季風氣候，一年分涼季、夏季、雨季三季。
+</p></div>
 <?php
 $end = file_get_contents('end.php');
 echo $end;
