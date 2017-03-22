@@ -2,7 +2,7 @@
 $top = file_get_contents('basic.php');
 echo $top;
 ?>
-<div class="one item content" markdown="1"><h4 id="">《看病篇》</h4>
+<div class="one item content-verynew" markdown="1"><h4 id="">《看病篇》</h4>
 <p>小病找診所，大病到醫院，不管去診所或醫院都要記得帶著健保卡，可以省去不少錢。</p>
 <p>診所</p>
 <p>01
