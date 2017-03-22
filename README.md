@@ -9,3 +9,5 @@
 03.18	0.2hr		Add employer main page
 03.19	1.0hr		Add download page
 03.22	1.5hr		Add employee contents
+03.22	2.0hr		Add ch8 and correct contents
+

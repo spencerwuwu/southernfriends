@@ -1,0 +1,74 @@
+<?php
+$top = file_get_contents('basic.php');
+echo $top;
+?>
+
+<div class="one item content" markdown="1">
+
+####《台灣特殊節日》
+![](img/ch1/03/ch3-3-date-1.png)
+開國紀念日   
+元旦，紀念1912年1月1日中華民國臨時政府成立。 
+![](img/Ch1/03/ch1-3-1.png)
+
+![](img/ch1/03/ch3-3-date-2.png)
+春節   
+農曆新年，一家團聚的日子，有除舊佈新的意義。
+![](img/Ch1/03/ch1-3-2.png)
+
+![](img/ch1/03/ch3-3-date-3.png)
+元宵節   
+每年首次月圓，在臺灣有賞花燈、吃湯圓的習俗。
+![](img/Ch1/03/ch1-3-3.png)
+
+![](img/ch1/03/ch3-3-date-4.png)
+和平紀念日   
+紀念1947年的二二八事件。
+![](img/Ch1/03/ch1-3-4.png)
+
+![](img/ch1/03/ch3-3-date-5.png)
+媽祖聖誕   
+傳說此日為媽祖誕辰日， 此日前後，各地媽祖廟相繼展開熱鬧的慶典。
+![](img/Ch1/03/ch1-3-5.png)
+
+![](img/ch1/03/ch3-3-date-6.png)
+清明節   
+掃墓、祭祖的節日。
+![](img/Ch1/03/ch1-3-6.png)
+
+![](img/ch1/03/ch3-3-date-7.png)
+勞動節   
+國際節日，紀念勞工對社會和經濟的所作的貢獻。
+![](img/Ch1/03/ch1-3-7.png)
+
+![](img/ch1/03/ch3-3-date-8.png)
+端午節   
+紀念愛國詩人屈原逝世， 後來為有祛除瘟疫、避邪驅鬼的意義。
+![](img/Ch1/03/ch1-3-8.png)
+
+[](img/ch1/03/ch3-3-date-9.png)
+中元節   
+農曆七月是鬼門開，在中元節這天各地會舉行中元普渡，祭祀亡魂。
+![](img/Ch1/03/ch1-3-9.png)
+
+[](img/ch1/03/ch3-3-date-10.png)
+中秋節   
+這天月亮圓滿，象徵著團圓，在臺灣有特有的中秋烤肉風俗。
+![](img/Ch1/03/ch1-3-10.png)
+
+[](img/ch1/03/ch3-3-date-11.png)
+中華民國國慶日   
+紀念1911年武昌起義。
+![](img/Ch1/03/ch1-3-11.png)
+
+[](img/ch1/03/ch3-3-date-12.png)
+冬至   
+北半球每年夜晚最長的一日，人們會一家團聚吃湯圓。
+![](img/Ch1/03/ch1-3-12.png)
+
+
+</div>
+<?php
+$end = file_get_contents('end.php');
+echo $end;
+?>

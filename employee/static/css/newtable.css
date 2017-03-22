@@ -1,0 +1,16 @@
+.table-con{
+    overflow-x: auto;
+    width: 100%;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 2px solid #000;
+    width: 600px;
+}
+
+th, td {
+    border: 2px solid #000;
+    text-align: left;
+    padding: 8px;
+}

@@ -99,6 +99,9 @@
             <a href="Ch2-c/Ch2.php">ch2 語言小教室</a>
 		  </div>
 		  <div class=" menu-n-text mytext heavy mywhite">
+            <a href="Ch3-c/Ch3.php">ch3 假日好去處</a>
+		  </div>
+		  <div class=" menu-n-text mytext heavy mywhite">
             <a href="Ch4-c/Ch4.php">ch4 宗教小教室</a>
 		  </div>
 		  <div class=" menu-n-text mytext heavy mywhite">
