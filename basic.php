@@ -11,10 +11,10 @@
     <title> 南方朋友 | Southern Friends </title>
 
 
-    <link rel="stylesheet" type="text/css" href="download/static/css/basic.css">
-    <link rel="stylesheet" type="text/css" href="download/static/css/myresponsive.css">
-    <script src="download/static/js/jquery.min.js"></script>
-    <script src="download/static/js/basic.js"></script>
+    <link rel="stylesheet" type="text/css" href="employee/static/css/basic.css">
+    <link rel="stylesheet" type="text/css" href="employee/static/css/myresponsive.css">
+    <script src="employee/static/js/jquery.min.js"></script>
+    <script src="employee/static/js/basic.js"></script>
   </head>
   <body>
     <!-- side menu bar -->
