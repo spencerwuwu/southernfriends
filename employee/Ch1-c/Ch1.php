@@ -4,7 +4,7 @@ echo $top;
 ?>
         <div class="one item content">
           <h2>ch1</h2><h2>關於台灣</h2>
-          <img src="img/Ch1/1.png" />
+          <img src="img/01/ch1-1.png" />
         </div>
       <div class="item list-con">
         <div class="item list-w heavy">
