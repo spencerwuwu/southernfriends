@@ -24,16 +24,28 @@
         <h2>移工<br>小幫手</h2>
         <div class="item list-con">
           <div class="item list-w heavy">
-            <a href="Ch1/CH1.php">移工國簡介</a>
+            <a href="Ch1-c/Ch1.php">ch1 關於台灣</a>
           </div>
           <div class="item list-w heavy">
-            <a href="Ch2/CH2.php">國際移工雇用須知</a>
+            <a href="Ch2-c/Ch2.php">ch2 語言小教室</a>
           </div>
           <div class="item list-w heavy">
-            <a href="Ch3/CH3.php">法律案例</a>
+            <a href="Ch3-c/Ch3.php">ch3 假日好去處</a>
           </div>
           <div class="item list-w heavy">
-            <a href="Ch4/CH4.php">相關諮詢單位服務處</a>
+            <a href="Ch4-c/Ch4.php">ch4 宗教小教室</a>
+          </div>
+          <div class="item list-w heavy">
+            <a href="Ch5-c/Ch5.php">ch5 交通與生活小知識</a>
+          </div>
+          <div class="item list-w heavy">
+            <a href="Ch6-c/Ch6.php">ch6 你一定要知道的那些事</a>
+          </div>
+          <div class="item list-w heavy">
+            <a href="Ch7-c/Ch7.php">ch7 為國際移工舉辦的節日</a>
+          </div>
+          <div class="item list-w heavy">
+            <a href="Ch8-c/Ch8.php">ch8 外國廣播節目</a>
           </div>
         </div>
       </div>

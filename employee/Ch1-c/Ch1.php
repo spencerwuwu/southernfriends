@@ -8,16 +8,16 @@ echo $top;
         </div>
       <div class="item list-con">
         <div class="item list-w heavy">
-          <a href="in.php">印尼</a>
+          <a href="ch1美麗的小島.php">美麗的小島</a>
         </div>
           <div class="item list-w heavy">
-            <a href="phi.php">菲律賓簡介</a>
+            <a href="ch1氣候與自然災害.php">氣候與自然災害</a>
           </div>
           <div class="item list-w heavy">
-            <a href="tai.php">泰國簡介</a>
+            <a href="ch1特殊人文風情.php">特殊人文風情</a>
           </div>
           <div class="item list-w heavy">
-            <a href="vie.php">越南簡介</a>
+            <a href="ch1台灣特殊節日.php">台灣特殊節日</a>
           </div>
       </div>
 

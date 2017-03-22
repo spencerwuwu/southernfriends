@@ -8,13 +8,13 @@ echo $top;
         </div>
       </div>
       <div class="item list-con">
-        <div class="item list heavy">
+        <div class="item list-w heavy">
           <a href="CH3_A.php">A 聘顧篇</a>
         </div>
-        <div class="item list heavy">
+        <div class="item list-w heavy">
           <a href="CH3_B.php">B 指/調派工作篇</a>
         </div>
-        <div class="item list heavy">
+        <div class="item list-w heavy">
           <a href="CH3_C.php">C 行政流程篇</a></p>
         </div>
 <?php
