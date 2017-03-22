@@ -11,4 +11,5 @@
 03.22	1.5hr		Add employee contents
 03.22	2.0hr		Add ch8 and correct contents
 03.23	3.0hr		Tweak contents
+03.24	3.0hr		Tweak contents
 
