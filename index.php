@@ -4,7 +4,7 @@ echo $top;
 ?>
 <div class="topcon top-addon">
       <div class="myrow centered">
-        <div class="item main-content">
+        <div class="item mainindex-content">
           <h2>南方朋友</h2>
           <img src="首頁.png" />
         </div>
@@ -14,13 +14,7 @@ echo $top;
           <a href="#">中文</a>
         </div>
         <div class="item list-lan">
-          <a href="#">English</a>
-        </div>
-        <div class="item list-lan">
-          <a href="#">中文</a>
-        </div>
-        <div class="item list-lan">
-          <a href="#">English</a>
+          <a href="English/index.php">English</a>
         </div>
       </div>
       <div class="item list-con">
