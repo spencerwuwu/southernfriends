@@ -15,7 +15,7 @@ echo $top;
           <a href="CH3_B.php">B 指/調派工作篇</a>
         </div>
         <div class="item list-w heavy">
-          <a href="CH3_C.php">C 行政流程篇</a></p>
+          <a href="CH3_C.php">C 行政流程篇</a>
         </div>
 <?php
 $end = file_get_contents('end.php');

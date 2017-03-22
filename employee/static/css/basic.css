@@ -307,6 +307,7 @@
     margin-bottom: 5px; }
   .content-new img {
     padding: 10px 5% 10px 20%;
+    display: block;
     width: 60%; }
 
 .content-index {

@@ -24,16 +24,16 @@ echo $top;
         </div>
       </div>
       <div class="item list-con">
-        <div class="item list heavy">
+        <div class="item list-w heavy">
           <a href="employer/index.php">雇主小幫手</a>
         </div>
-        <div class="item list heavy">
+        <div class="item list-w heavy">
           <a href="employee/index.php">移工小幫手</a>
         </div>
-        <div class="item list heavy">
+        <div class="item list-w heavy">
           <a href="newemployer/index.php">直聘小幫手</a>
         </div>
-        <div class="item list heavy">
+        <div class="item list-w heavy">
           <a href="download/index.php">下載專區</a>
         </div>
 <?php

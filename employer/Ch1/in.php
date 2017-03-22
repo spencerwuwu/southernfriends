@@ -50,68 +50,6 @@ echo $top;
 
           </p>印尼地處赤道周邊,屬熱帶性氣候,由於季風而分為乾、濕兩季。濕度平均80%,年溫差小,雅加達日均溫介於26至30度之間。</p>
 
-          <div class="small-topic">
-            <div class="small-topic-p">
-              <img src="img/Ch1/泰國icon人口.png" />
-            </div>
-            <div class="small-topic-w1">
-              <h4>人口</h4>
-            </div>
-          </div>
-
-          <div class="small-topic">
-            <div class="small-topic-1r">
-              <img src="img/Ch1/泰國越南宗教icon人口.png" />
-            </div>
-            <div class="small-topic-w1">
-              <h4>信仰</h4>
-            </div>
-          </div>
-
-          <div class="small-topic">
-            <div class="small-topic-p">
-              <img src="img/Ch1/菲律賓icon人口.png" />
-            </div>
-            <div class="small-topic-w1">
-              <h4>人口</h4>
-            </div>
-          </div>
-
-          <div class="small-topic">
-            <div class="small-topic-1r">
-              <img src="img/Ch1/菲律賓宗教icon人口.png" />
-            </div>
-            <div class="small-topic-w1">
-              <h4>信仰</h4>
-            </div>
-          </div>
-
-          <div class="small-topic">
-            <div class="small-topic-p">
-              <img src="img/Ch1/越南icon人口.png" />
-            </div>
-            <div class="small-topic-w1">
-              <h4>人口</h4>
-            </div>
-          </div>
-
-          <div class="small-topic">
-            <div class="small-topic-1r">
-              <img src="img/Ch1/泰國越南宗教icon人口.png" />
-            </div>
-            <div class="small-topic-w1">
-              <h4>信仰</h4>
-            </div>
-          </div>
-
-          <div class="law-icon-con">
-            <div class="law-icon">
-              <img src="img/Ch4/ICON_大錘子.png" />
-            </div>
-          </div>
-          
-          <h4>《就業服務法》</h4>
-          <h4>有關外國人工作重要條文</h4>
 
         </div>
 
