@@ -3,7 +3,7 @@ $top = file_get_contents('basic.php');
 echo $top;
 ?>
         <div class="one item content">
-          <img src="img/Ch1/1.png" />
+          <img src="../home/ch5.png" />
           <h2>ch5</h2><h2>生活與交通小知識</h2>
         </div>
       <div class="item list-con">

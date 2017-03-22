@@ -6,7 +6,7 @@ echo $top;
       <div class="myrow centered">
         <div class="one item content">
           <h2>南方朋友</h2>
-          <img src="img/" />
+          <img src="首頁.png" />
         </div>
       </div>
       <div class="item list-con-lan">
