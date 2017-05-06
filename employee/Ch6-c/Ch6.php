@@ -7,92 +7,92 @@ echo $top;
 <h4 id="01">01</h4>
 <p>未經許可、許可失效、或已有雇主申請聘僱的你
 ，不可以私自做其他額外賺錢的工作。</p>
-<p><img src="img/Ch6/ch6-1.png" alt="" />
+<p><img src="img/ch6-1.png" alt="" />
 在醫院服務台放置自製看護名片找工作。</p>
-<p><img src="img/Ch6/ch6-2.png" alt="" />
+<p><img src="img/ch6-2.png" alt="" />
 為了賺多一些錢，而為原雇主多打一份工。</p>
-<p><img src="img/Ch6/ch6-21.png" alt="" />
+<p><img src="img/ch6-21.png" alt="" />
 －資料不正確或逾期，將導致雇主被罰款。</p>
 <h4 id="02">02</h4>
 <p>除了你這種合法勞工，你的雇主不可以聘其他非法逃逸勞工。</p>
-<p><img src="img/Ch6/ch6-3.png" alt="" />
+<p><img src="img/ch6-3.png" alt="" />
 雇主的工廠趕工不及，於是僱了一些非法逃逸勞工。</p>
-<p><img src="img/Ch6/ch6-21.png" alt="" />
+<p><img src="img/ch6-21.png" alt="" />
 －雇主的招募許可或聘僱許可被廢止，導致你失業。</p>
 <h4 id="03">03</h4>
 <p>工作上有必要時，務必出示正本、在有效期限內的個人證件。</p>
-<p><img src="img/Ch6/ch6-4.png" alt="" />
+<p><img src="img/ch6-4.png" alt="" />
 工作期滿，要重新申請、或申請新工作時，需要出示正本正確的證件給雇主。</p>
-<p><img src="img/Ch6/ch6-5.png" alt="" />
+<p><img src="img/ch6-5.png" alt="" />
 雇主備齊文件，向中央主管機關申請許可後，才可聘僱你工作。</p>
-<p><img src="img/Ch6/ch6-21.png" alt="" />
+<p><img src="img/ch6-21.png" alt="" />
 －資料不正確或逾期，將導致雇主被罰款。</p>
 <h4 id="04">04</h4>
 <p>除非你在台有設籍，否則都必須根據「就業勞工法」的外國人規定來辦理工作。</p>
-<p><img src="img/Ch6/ch6-6.png" alt="" />
+<p><img src="img/ch6-6.png" alt="" />
 你兼具台灣與外國國籍，有親人在台，但沒在台灣設籍，你仍必須根據「就業勞工法」有關的外國人規定辦理工作。</p>
-<p><img src="img/Ch6/ch6-21.png" alt="" />
+<p><img src="img/ch6-21.png" alt="" />
 會導致雇主觸法被罰款。</p>
 <h4 id="05">05</h4>
 <p>如果雇主要做通報、許可、申請等程序，務必在期限內完成。</p>
-<p><img src="img/Ch6/ch6-7.png" alt="" />
+<p><img src="img/ch6-7.png" alt="" />
 你的雇主另外聘僱非法外勞來趕工，結果被廢止聘僱許可。</p>
-<p><img src="img/Ch6/ch6-21.png" alt="" />
+<p><img src="img/ch6-21.png" alt="" />
 -你將需要轉換雇主，或是離境回國。<br />
 －如果你想繼續為原雇主工作，他必須重新申請聘雇許可。</p>
 <h4 id="06">06</h4>
 <p>除了你應負擔的項目和金額外，你的雇主必須以現金全額付薪水給你。</p>
-<p><img src="img/Ch6/ch6-8.png" alt="" />
+<p><img src="img/ch6-8.png" alt="" />
 你的雇主見你每次自己聯絡仲介付仲介費很麻煩，於是他直接在你的薪水中扣除幫你代繳。</p>
 <p><img src="img/Ch6/ch6-9.png" alt="" />
 你的雇主延遲付你薪水。</p>
-<p><img src="img/Ch6/ch6-10.png" alt="" />
+<p><img src="img/ch6-10.png" alt="" />
 你的雇主不是以現金付你薪水。</p>
-<p><img src="img/Ch6/ch6-21.png" alt="" />
+<p><img src="img/ch6-21.png" alt="" />
 －資料不正確或逾期，將導致雇主被罰款。</p>
 <h4 id="07">07</h4>
 <p>你的雇主不可以指使你做本分以外的工作。</p>
-<p><img src="img/Ch6/ch6-11.png" alt="" />
+<p><img src="img/ch6-11.png" alt="" />
 你是一名工廠工，雇主家臨時需要看護，因此指派你到他家中擔任。</p>
-<p><img src="img/Ch6/ch6-12.png" alt="" />
+<p><img src="img/ch6-12.png" alt="" />
 你是一名看護，但你的雇主要你順便打掃家裡。。</p>
-<p><img src="img/Ch6/ch6-13.png" alt="" />
+<p><img src="img/ch6-13.png" alt="" />
 你自願幫忙雇主做本分以外的事情，結果養成雇主指派你做其他事的壞習慣。</p>
-<p><img src="img/Ch6/ch6-14.png" alt="" />
+<p><img src="img/ch6-14.png" alt="" />
 你是一名工廠工，但雇主請你幫忙開車送貨。</p>
-<p><img src="img/Ch6/ch6-21.png" alt="" />
+<p><img src="img/ch6-21.png" alt="" />
 －雇主因觸法被罰款。<br />
 －雇主的招募許和聘僱許可被廢止，導致你失業。</p>
 <h4 id="08">08</h4>
 <p>你的雇主不可以轉換你的工作對象、地點。</p>
-<p><img src="img/Ch6/ch6-15.png" alt="" />
+<p><img src="img/ch6-15.png" alt="" />
 本來你是一名負責照顧阿公的看護，之後阿公病情好轉，雇主就請你轉去照顧阿嬤。</p>
-<p><img src="img/Ch6/ch6-16.png" alt="" />
+<p><img src="img/ch6-16.png" alt="" />
 你工作的製造工廠因機器壞掉，雇主通知你改至其他廠區上班。</p>
-<p><img src="img/Ch6/ch6-17.png" alt="" />
+<p><img src="img/ch6-17.png" alt="" />
 你的雇主在同棟建築有數家護理之家，他指派原本負責2樓的你到3樓去幫忙。</p>
-<p><img src="img/Ch6/ch6-21.png" alt="" />
+<p><img src="img/ch6-21.png" alt="" />
 －雇主因觸法被罰款。<br />
 －雇主的招募許和聘僱許可被廢止，導致你失業。<br />
 －如果不符合「外籍工作者變更工作場所認定基準」，就應經勞動部許可才能變更工作場所。</p>
 <h4 id="09">09</h4>
 <p>在工作時段內，即使你的分內工作完事了，也不能去幫忙許可以外的工作。</p>
-<p><img src="img/Ch6/ch6-18.png" alt="" />
+<p><img src="img/ch6-18.png" alt="" />
 你的雇主擁有漁船和渡輪若干艘，你的工作內容是跟漁船相關的工作。一天你手邊的事忙完了，看見渡輪的朋友還在忙，便過去幫忙拉纜繩及協助上下貨物。</p>
-<p><img src="img/Ch6/ch6-21.png" alt="" />
+<p><img src="img/ch6-21.png" alt="" />
 －雇主因觸法被罰款。<br />
 －雇主的招募許和聘僱許可被廢止，導致你失業。</p>
 <h4 id="10">10</h4>
 <p>如果雇主要做通報、許可、申請等程序，務必在期限內完成。</p>
-<p><img src="img/Ch6/ch6-19.png" alt="" />
+<p><img src="img/ch6-19.png" alt="" />
 你看護的阿嬤在任期內過世了，雇主同意你轉至其他雇主續聘，並廢止聘僱許可，但忘了通知當地主管機關，事隔一個月後才通知。</p>
-<p><img src="img/Ch6/ch6-21.png" alt="" />
+<p><img src="img/ch6-21.png" alt="" />
 －雇主因觸法被罰款。</p>
 <h4 id="11">11</h4>
 <p>若你的住宿地點有變，雇主得在變更後七日內，以書面通知工作所在地和住宿地給當地主管機關。</p>
-<p><img src="img/Ch6/ch6-20.png" alt="" />
+<p><img src="img/ch6-20.png" alt="" />
 你看護的阿嬤在任期內過世了，雇主同意你轉至其他雇主續聘，並廢止聘僱許可，但忘了通知當地主管機關，事隔一個月後才通知。初來台灣時你的地址登記在台北市，後來隨著雇主搬家了，但雇主忘了通知勞工局。</p>
-<p><img src="img/ch6/ch6-21.png" alt="" />
+<p><img src="img/ch6-21.png" alt="" />
 －雇主因觸法被罰款。</p></div>
 <?php
 $end = file_get_contents('end.php');

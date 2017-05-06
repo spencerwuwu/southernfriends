@@ -9,7 +9,7 @@ echo $top;
           <img src="首頁.png" />
         </div>
       </div>
-      <div class="item list-con">
+      <div class="wide item list-con">
         <div class="item list-e heavy">
           <a href="files/employer1.swf">雇主小幫手</a>
         </div>
@@ -29,15 +29,15 @@ echo $top;
           <img src="首頁.png" />
         </div>
       </div>
-      <div class="item list-con-lan">
+      <div class="narrow item list-con-lan">
         <div class="item list-lan">
           <a href="#">中文</a>
         </div>
-        <div class="item list-lan">
+        <div class="narrow item list-lan">
           <a href="English/index.php">English</a>
         </div>
       </div>
-      <div class="item list-con">
+      <div class="narrow item list-con">
         <div class="item list-w heavy">
           <a href="employer/index.php">雇主小幫手</a>
         </div>
