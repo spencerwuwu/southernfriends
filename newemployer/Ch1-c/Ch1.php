@@ -8,7 +8,7 @@ echo $top;
         </div>
       <div class="item list-con">
         <div class="item list-w heavy">
-          <a href="新聘.php">新聘</a>
+          <a href="ch1-1.php">新聘</a>
         </div>
           <div class="item list-w heavy">
             <a href="續聘.php">續聘</a>
