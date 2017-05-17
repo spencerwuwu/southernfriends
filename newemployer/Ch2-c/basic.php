@@ -11,10 +11,10 @@
 	<title> 南方朋友 | Southern Friends </title>
 
 
-	<link rel="stylesheet" type="text/css" href="static/css/basic.css">
-	<link rel="stylesheet" type="text/css" href="static/css/myresponsive.css">
-	<script src="static/js/jquery.min.js"></script>
-	<script src="static/js/basic.js"></script>
+	<link rel="stylesheet" type="text/css" href="../static/css/basic.css">
+	<link rel="stylesheet" type="text/css" href="../static/css/myresponsive.css">
+	<script src="../static/js/jquery.min.js"></script>
+	<script src="../static/js/basic.js"></script>
   </head>
   <body>
 	<!-- side menu bar -->
@@ -28,48 +28,48 @@
 		<div id="menu-content1" class="menu-content-con">
 		<div class="one item menu-content" >
 		  <div class=" menu-n-text mytext heavy mywhite">
-			<a href="../employer/Ch1/CH1.php">Ch1 移工國簡介</a>
+			<a href="../../employer/Ch1/CH1.php">Ch1 移工國簡介</a>
 		  </div>
 		  <div class="menu-n-text mytext mywhite ">
-			<a href="../employer/Ch1/in.php">印尼簡介</a>
+			<a href="../../employer/Ch1/in.php">印尼簡介</a>
 		  </div>
 		  <div class="menu-n-text mytext mywhite ">
-			<a href="../employer/Ch1/phi.php">菲律賓簡介</a>
+			<a href="../../employer/Ch1/phi.php">菲律賓簡介</a>
 		  </div>
 		  <div class="menu-n-text mytext mywhite ">
-			<a href="../employer/Ch1/tai.php">泰國簡介</a>
+			<a href="../../employer/Ch1/tai.php">泰國簡介</a>
 		  </div>
 		  <div class="menu-n-text mytext mywhite ">
-			<a href="../employer/Ch1/vie.php">越南簡介</a>
+			<a href="../../employer/Ch1/vie.php">越南簡介</a>
 		  </div>
 		</div>
 
 		<div class="one item menu-content">
 		  <div class=" menu-n-text mytext heavy mywhite">
-			<a href="../employer/Ch2/CH2.php">Ch2 僱用外籍勞工須知</a>
-		  </div>
-		</div>
-
-
-		<div class="one item menu-content">
-		  <div class=" menu-n-text mytext heavy mywhite">
-			<a href="../employer/Ch3/CH3.php">Ch3 法律案例</a>
-		  </div>
-		  <div class="menu-n-text mytext mywhite ">
-			<a href="../employer/Ch3/CH3_A.php">A 聘顧篇</a>
-		  </div>
-		  <div class="menu-n-text mytext mywhite ">
-			<a href="../employer/Ch3/CH3_B.php">B 指/調派工作篇</a>
-		  </div>
-		  <div class="menu-n-text mytext mywhite ">
-			<a href="../employer/Ch3/CH3_C.php">C 行政流程篇</a>
+			<a href="../../employer/Ch2/CH2.php">Ch2 僱用外籍勞工須知</a>
 		  </div>
 		</div>
 
 
 		<div class="one item menu-content">
 		  <div class=" menu-n-text mytext heavy mywhite">
-			<a href="../employer/Ch4/CH4.php">Ch4 附錄</a>
+			<a href="../../employer/Ch3/CH3.php">Ch3 法律案例</a>
+		  </div>
+		  <div class="menu-n-text mytext mywhite ">
+			<a href="../../employer/Ch3/CH3_A.php">A 聘顧篇</a>
+		  </div>
+		  <div class="menu-n-text mytext mywhite ">
+			<a href="../../employer/Ch3/CH3_B.php">B 指/調派工作篇</a>
+		  </div>
+		  <div class="menu-n-text mytext mywhite ">
+			<a href="../../employer/Ch3/CH3_C.php">C 行政流程篇</a>
+		  </div>
+		</div>
+
+
+		<div class="one item menu-content">
+		  <div class=" menu-n-text mytext heavy mywhite">
+			<a href="../../employer/Ch4/CH4.php">Ch4 附錄</a>
 		  </div>
 <!--
 		  <div class="menu-n-text mytext mywhite ">
@@ -93,28 +93,28 @@
 		<div id="menu-content2" class="menu-content-con">
 		<div class="one item menu-content" >
 		  <div class=" menu-n-text mytext heavy mywhite">
-            <a href="../employee/Ch1-c/Ch1.php">ch1 關於台灣</a>
+			<a href="../../employee/Ch1-c/Ch1.php">ch1 關於台灣</a>
 		  </div>
 		  <div class=" menu-n-text mytext heavy mywhite">
-            <a href="../employee/Ch2-c/Ch2.php">ch2 語言小教室</a>
+            <a href="../../employee/Ch2-c/Ch2.php">ch2 語言小教室</a>
 		  </div>
 		  <div class=" menu-n-text mytext heavy mywhite">
-            <a href="../employee/Ch3-c/Ch3.php">ch3 假日好去處</a>
+            <a href="../../employee/Ch3-c/Ch3.php">ch3 假日好去處</a>
 		  </div>
 		  <div class=" menu-n-text mytext heavy mywhite">
-            <a href="../employee/Ch4-c/Ch4.php">ch4 宗教小教室</a>
+            <a href="../../employee/Ch4-c/Ch4.php">ch4 宗教小教室</a>
 		  </div>
 		  <div class=" menu-n-text mytext heavy mywhite">
-            <a href="../employee/Ch5-c/Ch5.php">ch5 交通與生活小知識</a>
+            <a href="../../employee/Ch5-c/Ch5.php">ch5 交通與生活小知識</a>
 		  </div>
 		  <div class=" menu-n-text mytext heavy mywhite">
-            <a href="../employee/Ch6-c/Ch6.php">ch6 你一定要知道的那些事</a>
+            <a href="../../employee/Ch6-c/Ch6.php">ch6 你一定要知道的那些事</a>
 		  </div>
 		  <div class=" menu-n-text mytext heavy mywhite">
-            <a href="../employee/Ch7-c/Ch7.php">ch7 為國際移工舉辦的節日</a>
+            <a href="../../employee/Ch7-c/Ch7.php">ch7 為國際移工舉辦的節日</a>
 		  </div>
 		  <div class=" menu-n-text mytext heavy mywhite">
-            <a href="../employee/Ch8-c/Ch8.php">ch8 外國廣播節目</a>
+            <a href="../../employee/Ch8-c/Ch8.php">ch8 外國廣播節目</a>
 		  </div>
 		</div>
 		</div>
@@ -125,28 +125,28 @@
     <div id="menu-content3" class="menu-content-con">
     <div class="one item menu-content" >
       <div class=" menu-n-text mytext heavy mywhite">
-			<a href="Ch1-c/Ch1.php" >ch1 直聘中心辦理哪些,外籍勞工聘僱作業</a>
+			<a href="../Ch1-c/Ch1.php" >ch1 直聘中心辦理哪些,外籍勞工聘僱作業</a>
       </div>
       <div class=" menu-n-text mytext heavy mywhite">
-			<a href="Ch2-c/Ch2.php">ch2 我可以申請嗎?我符合條件嗎?</a>
+			<a href="Ch2.php">ch2 我可以申請嗎?我符合條件嗎?</a>
       </div>
       <div class=" menu-n-text mytext heavy mywhite">
-			<a href="Ch3-c/Ch3.php">ch3 我想聘僱家庭看護</a>
+			<a href="../Ch3-c/Ch3.php">ch3 我想聘僱家庭看護</a>
       </div>
       <div class=" menu-n-text mytext heavy mywhite">
-			<a href="Ch4-c/Ch4.php">ch4 我想聘僱家庭幫傭</a>
+			<a href="../Ch4-c/Ch4.php">ch4 我想聘僱家庭幫傭</a>
       </div>
       <div class=" menu-n-text mytext heavy mywhite">
-			<a href="Ch5-c/Ch5.php">ch5 我想聘僱機構看護</a>
+			<a href="../Ch5-c/Ch5.php">ch5 我想聘僱機構看護</a>
       </div>
       <div class=" menu-n-text mytext heavy mywhite">
-			<a href="Ch6-c/Ch6.php">ch6 我想聘僱製造工</a>
+			<a href="../Ch6-c/Ch6.php">ch6 我想聘僱製造工</a>
       </div>
       <div class=" menu-n-text mytext heavy mywhite">
-			<a href="Ch7-c/Ch7.php">ch7 我想聘僱營造工</a>
+			<a href="../Ch7-c/Ch7.php">ch7 我想聘僱營造工</a>
       </div>
       <div class=" menu-n-text mytext heavy mywhite">
-			<a href="Ch8-c/Ch8.php">ch8 我想聘僱海洋漁撈工</a>
+			<a href="../Ch8-c/Ch8.php">ch8 我想聘僱海洋漁撈工</a>
       </div>
 
     </div>
