@@ -3,8 +3,7 @@ $top = file_get_contents('basic.php');
 echo $top;
 ?>
         <div class="one item content">
-		  <h2>ch1</h2><h2>直聘中心辦理哪些<br>
-外籍勞工聘僱作業</h2>
+		  <h2>ch1</h2><h2>直聘中心辦理哪些外籍勞工聘僱作業</h2>
           <img src="../home/ch1.png" />
         </div>
       <div class="item list-con">

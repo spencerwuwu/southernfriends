@@ -3,29 +3,25 @@ $top = file_get_contents('basic.php');
 echo $top;
 ?>
         <div class="one item content">
-		  <h2>ch1</h2><h2>我可以申請嗎?我符合條件嗎?</h2>
+		  <h2>ch2</h2><h2>我想聘僱家庭看護</h2>
           <img src="../home/ch1.png" />
-		  <h2>四國開放直接初次<br>
-聘僱業別及聘僱類型</h2>
         </div>
       <div class="item list-con">
         <div class="item list-w heavy">
-          <a href="家庭看護.php">家庭看護</a>
+          <a href="招(招募許可).php">招(招募許可)</a>
         </div>
           <div class="item list-w heavy">
-            <a href="家庭幫傭.php">家庭幫傭</a>
+            <a href="選(挑選移工)/續.php">選(挑選移工)/續</a>
           </div>
           <div class="item list-w heavy">
-            <a href="機構看護.php">機構看護</a>
+            <a href="驗-簽.php">驗-簽</a>
+			<h6>(直接聘僱跨國選工系統選工者)</h6>
           </div>
           <div class="item list-w heavy">
-            <a href="製造工.php">製造工</a>
+            <a href="驗(驗證申請).php">驗(驗證申請)</a>
           </div>
           <div class="item list-w heavy">
-            <a href="營造工.php">營造工</a>
-          </div>
-          <div class="item list-w heavy">
-            <a href="海洋漁撈工.php">海洋漁撈工</a>
+            <a href="驗(驗證申請).php">驗(驗證申請)</a>
           </div>
       </div>
 
