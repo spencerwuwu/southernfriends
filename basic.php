@@ -123,30 +123,28 @@
     <div id="menu-content3" class="menu-content-con">
     <div class="one item menu-content" >
       <div class=" menu-n-text mytext heavy mywhite">
-			<a href="employee/Ch1-c/Ch1.php" >ch1 直聘中心辦理哪些<br>
-外籍勞工聘僱作業</a>
+			<a href="newemployer/Ch1-c/Ch1.php" >ch1 直聘中心辦理哪些,外籍勞工聘僱作業</a>
       </div>
       <div class=" menu-n-text mytext heavy mywhite">
-			<a href="employee/Ch2-c/Ch2.php">我可以申請嗎?<br>
-我符合條件嗎?</a>
+			<a href="newemployer/Ch2-c/Ch2.php">ch2 我可以申請嗎?我符合條件嗎?</a>
       </div>
       <div class=" menu-n-text mytext heavy mywhite">
-			<a href="employee/Ch3-c/Ch3.php">我想聘僱家庭看護</a>
+			<a href="newemployer/Ch3-c/Ch3.php">ch3 我想聘僱家庭看護</a>
       </div>
       <div class=" menu-n-text mytext heavy mywhite">
-			<a href="employee/Ch4-c/Ch4.php">我想聘僱家庭幫傭</a>
+			<a href="newemployer/Ch4-c/Ch4.php">ch4 我想聘僱家庭幫傭</a>
       </div>
       <div class=" menu-n-text mytext heavy mywhite">
-			<a href="employee/Ch5-c/Ch5.php">我想聘僱機構看護</a>
+			<a href="newemployer/Ch5-c/Ch5.php">ch5 我想聘僱機構看護</a>
       </div>
       <div class=" menu-n-text mytext heavy mywhite">
-			<a href="employee/Ch6-c/Ch6.php">我想聘僱製造工</a>
+			<a href="newemployer/Ch6-c/Ch6.php">ch6 我想聘僱製造工</a>
       </div>
       <div class=" menu-n-text mytext heavy mywhite">
-			<a href="employee/Ch7-c/Ch7.php">我想聘僱營造工</a>
+			<a href="newemployer/Ch7-c/Ch7.php">ch7 我想聘僱營造工</a>
       </div>
       <div class=" menu-n-text mytext heavy mywhite">
-			<a href="employee/Ch8-c/Ch8.php">我想聘僱海洋漁撈工</a>
+			<a href="newemployer/Ch8-c/Ch8.php">ch8 我想聘僱海洋漁撈工</a>
       </div>
 
     </div>
