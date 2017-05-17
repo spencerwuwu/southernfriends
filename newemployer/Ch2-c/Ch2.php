@@ -10,7 +10,7 @@ echo $top;
         </div>
       <div class="item list-con">
         <div class="item list-w heavy">
-          <a href="家庭看護.php">家庭看護</a>
+          <a href="ch2-1.php">家庭看護</a>
         </div>
           <div class="item list-w heavy">
             <a href="家庭幫傭.php">家庭幫傭</a>
