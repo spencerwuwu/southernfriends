@@ -25,23 +25,13 @@
         <div class="item list-con">
 
           <div class="item list-w heavy">
-			<div class="list-head">
-				<a href="Ch1-c/Ch1.php">ch1<br></a>
-			</div>
-			<div class="list-tail">
-			<a href="Ch1-c/Ch1.php">直聘中心辦理哪些</br>
+			<a href="Ch1-c/Ch1.php">ch1 直聘中心辦理哪些</br>
 外籍勞工聘僱作業</a>
-			</div>
           </div>
 
           <div class="item list-w heavy">
-			<div class="list-head">
-				<a href="Ch2-c/Ch2.php">ch2<br></a>
-			</div>
-			<div class="list-tail">
-			<a href="Ch2-c/Ch2.php">我可以申請嗎?<br>
+			<a href="Ch2-c/Ch2.php">ch2 我可以申請嗎?<br>
 我符合條件嗎?</a>
-			</div>
           </div>
 
           <div class="item list-w heavy">
