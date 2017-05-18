@@ -4,17 +4,17 @@ echo $top;
 ?>
         <div class="one item content">
 		  <h2>ch1</h2><h2>直聘中心辦理哪些外籍勞工聘僱作業</h2>
-          <img src="../home/ch1.png" />
+          <img src="img/ch1-13.png" />
         </div>
       <div class="item list-con">
         <div class="item list-w heavy">
           <a href="ch1-1.php">新聘</a>
         </div>
           <div class="item list-w heavy">
-            <a href="續聘.php">續聘</a>
+            <a href="ch1-2.php">續聘</a>
           </div>
           <div class="item list-w heavy">
-            <a href="期滿轉換或轉出.php">期滿轉換或轉出</a>
+            <a href="ch1-3.php">期滿轉換或轉出</a>
           </div>
       </div>
 

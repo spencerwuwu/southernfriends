@@ -19,15 +19,15 @@ echo $top;
 服務網」從國外引進新聘外籍勞工來臺工作。另自104年起，直聘中心與來源國
 合作專案選工，客製化提供產業類招工引進作業，其流程如下：</p>
 
-<img src="img/01/ch1-2.png" alt="" />
-<img src="img/01/ch1-17.png" alt="" />
-<img src="img/01/ch1-3.png" alt="" />
-<img src="img/01/ch1-17.png" alt="" />
-<img src="img/01/ch1-4.png" alt="" />
-<img src="img/01/ch1-17.png" alt="" />
-<img src="img/01/ch1-5.png" alt="" />
-<img src="img/01/ch1-17.png" alt="" />
-<img src="img/01/ch1-6.png" alt="" />
+<img src="img/ch1-2.png" alt="" />
+<img src="img/ch1-17.png" alt="" />
+<img src="img/ch1-3.png" alt="" />
+<img src="img/ch1-17.png" alt="" />
+<img src="img/ch1-4.png" alt="" />
+<img src="img/ch1-17.png" alt="" />
+<img src="img/ch1-5.png" alt="" />
+<img src="img/ch1-17.png" alt="" />
+<img src="img/ch1-6.png" alt="" />
 <p></p>
 
 
