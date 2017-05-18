@@ -15,24 +15,33 @@ echo $top;
 
 
 <div class="item list-w heavy">
-      <a href="招(招募許可).php">招(聘僱泰國移工）)</a>
+      <a href="ch3-2-1-1.php">招(聘僱泰國移工）)</a>
     </div>
 
 <div class="item list-w heavy">
-      <a href="招(招募許可).php">招(聘僱菲律賓移工)</a>
+      <a href="ch3-2-1-2.php">招(聘僱菲律賓移工)</a>
     </div>
 
 
     
 
 
-<ol>
-<li><li>
-
-</ol>
-
-
-<p></p></div>
+<p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p></div>
 
 
 

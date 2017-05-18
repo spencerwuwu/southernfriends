@@ -13,15 +13,15 @@ echo $top;
 <h3>招（招募許可）</h3>
 
 
-<a href="ch3-1-1.php"><img src="img/03/ch3-12.png" alt="" /></a>
+<a href="ch3-1-1.php"><img src="img/ch3-12.png" alt="" /></a>
     
 <p>被看護人沒有重度身心障礙手冊</p>
 
-<a href="ch3-1-2.php"><img src="img/03/ch3-12.png" alt="" />    </a>
+<a href="ch3-1-2.php"><img src="img/ch3-12.png" alt="" />    </a>
     
 <p>被看護人有重度身心障礙手冊</p>
 
- <a href="ch3-1-2.php"><img src="img/03/ch3-12.png" alt="" /></a>
+ <a href="ch3-1-2.php"><img src="img/ch3-12.png" alt="" /></a>
     
 
 

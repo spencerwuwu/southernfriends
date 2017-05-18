@@ -12,4 +12,6 @@
 03.22	2.0hr		Add ch8 and correct contents
 03.23	3.0hr		Tweak contents
 03.24	4.0hr		Tweak contents
+05.17	2.0hr		Start newemployee
+05.18	3.5hr		keep doing newemployee
 
