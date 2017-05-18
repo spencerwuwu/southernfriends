@@ -8,23 +8,23 @@ echo $top;
         </div>
       <div class="item list-con">
         <div class="item list-w heavy">
-          <a href="招(招募許可).php">招(招募許可)</a>
+          <a href="#">招(招募許可)</a>
         </div>
           <div class="item list-w heavy">
-            <a href="選(挑選移工)續.php">選(挑選移工)/續</a>
+            <a href="#">選(挑選移工)/續</a>
           </div>
           <div class="item list-w heavy">
-            <a href="驗-簽.php">驗-簽</a>
+            <a href="#">驗-簽</a>
 			<h6>(直接聘僱跨國選工系統選工者)</h6>
           </div>
           <div class="item list-w heavy">
-            <a href="驗(驗證申請).php">驗(驗證申請)</a>
+            <a href="#">驗(驗證申請)</a>
           </div>
           <div class="item list-w heavy">
-            <a href="簽(簽證申請).php">簽(簽證申請)</a>
+            <a href="../Ch3-c/ch3-6.php">簽(簽證申請)</a>
           </div>
           <div class="item list-w heavy">
-            <a href="注意事項.php">注(注意事項)</a>
+            <a href="../Ch0-c/Ch0.php">注(注意事項)</a>
           </div>
       </div>
 

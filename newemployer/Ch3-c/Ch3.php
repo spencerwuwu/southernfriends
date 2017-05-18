@@ -24,7 +24,7 @@ echo $top;
             <a href="ch3-5.php">簽(簽證申請)</a>
           </div>
           <div class="item list-w heavy">
-            <a href="ch3-6.php">注(注意事項)</a>
+            <a href="../Ch0-c/Ch0.php">注(注意事項)</a>
           </div>
       </div>
       </div>

@@ -14,4 +14,5 @@
 03.24	4.0hr		Tweak contents
 05.17	2.0hr		Start newemployee
 05.18	3.5hr		keep doing newemployee
+05.19	0.5hr		keep doing newemployee
 
