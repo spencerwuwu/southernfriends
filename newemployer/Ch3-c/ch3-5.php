@@ -10,30 +10,51 @@ echo $top;
 
 
 
-<h3>聘（聘僱許可）</h3>
+<h3>簽(簽證申請)</h3>
 
-
-
+<p>續聘同一外籍勞工,若續聘移工期滿有回國,雇主應於外籍勞工離境前15天,備齊「簽證相關文件」,由直聘中心代寄至我國駐外籍勞工來源國辦事處審核。</p>
+     
+ <div class="item list-con">
 <div class="item list-w heavy">
-      <a href="招(招募許可).php">招(辦理入國通報)</a>
+      <a href="ch3-5-1.php">備齊相關文件</a>
+    </div>
+<div class="item list-w heavy">
+      <a href="ch3-5-2.php">菲律賓移工回國申辦事項</a>
     </div>
 
 <div class="item list-w heavy">
-      <a href="招(招募許可).php">招(辦理入境健康檢查)</a>
+      <a href="ch3-5-3.php">越南移工回國申辦事項</a>
     </div>
-    
 <div class="item list-w heavy">
-      <a href="招(招募許可).php">招(辦理外僑居留證)</a>
+      <a href="ch3-5-4.php">菲律賓移工回國申辦事項</a>
     </div>
-    
-<div class="item list-w heavy">
-      <a href="招(招募許可).php">招(辦理聘僱許可函)</a>
+
     </div>
 
 
 
-
-<p><br>
+<p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -50,10 +71,8 @@ echo $top;
 
 
 
+      </div>
+    </div>
 
 
-
-      <?php
-      $end = file_get_contents('end.php');
-      echo $end;
-      ?>
+  </body>
