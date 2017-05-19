@@ -3,7 +3,7 @@ $top = file_get_contents('basic.php');
 echo $top;
 ?>
         <div class="one item content">
-		  <h2>ch1</h2><h2>我可以申請嗎?我符合條件嗎?</h2>
+		  <h2>ch2</h2><h2>我可以申請嗎?我符合條件嗎?</h2>
           <img src="img/ch2.png" />
 		  <h2>四國開放直接初次<br>
 聘僱業別及聘僱類型</h2>

@@ -4,7 +4,7 @@ echo $top;
 ?>
         <div class="one item content">
 		  <h2>ch7</h2><h2>我想聘僱營造工</h2>
-          <img src="../home/ch1.png" />
+          <img src="../Ch3-c/img/ch3-1.png" />
         </div>
       <div class="item list-con">
         <div class="item list-w heavy">

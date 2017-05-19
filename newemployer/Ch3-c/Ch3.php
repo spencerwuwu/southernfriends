@@ -3,7 +3,7 @@ $top = file_get_contents('basic.php');
 echo $top;
 ?>
         <div class="one item content">
-		  <h2>ch1</h2><h2>我想聘僱家庭看護</h2>
+		  <h2>ch3</h2><h2>我想聘僱家庭看護</h2>
           <img src="img/ch3-1.png" />
         </div>
       <div class="item list-con">
