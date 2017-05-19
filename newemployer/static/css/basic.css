@@ -70,7 +70,8 @@
   .list-w a {
     color: black; }
   .list-w h6 {
-    size: 0.1em; }
+    size: 0.1em;
+    margin: 4px; }
 
 .list-head {
   width: 20%;
